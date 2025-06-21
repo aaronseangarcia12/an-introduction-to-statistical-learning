@@ -1,5 +1,5 @@
 # An Introduction to Statistical Learning Notes
-Here are some notes I took while reading An Introduction to Statistical Learning (Srpinger, [2023](https://www.statlearning.com/)).
+Here are some notes I took while reading An Introduction to Statistical Learning (Springer, [2023](https://www.statlearning.com/)).
 
 ## Table of Contents
 1. [Introduction](./ch1)
